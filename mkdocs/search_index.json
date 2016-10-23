@@ -1,0 +1,109 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Introduction\n\n\nHey~ my name is Sonic, Currently a game developer in training, A student at Auckland University of Technology located in New Zealand, Auckland City.\n\nMy dream is to be a Content Creator, Something for people to enjoy. I will be updating this log frequently, as I learn more new things.\n\n\nVideo Reel\n\n\n\n\n\n\nGames\n\n\nSpirit Animal\n\n\nA maze game based off a custom game made in Warcraft 3: The Frozen Throne game.\nThe game is a puzzle timing game where you use your mask powers to overcome the obstacles.\n\n\nGame was built in C++, with SDL Framework \n Libraries, FMOD Libraries\n\nand SDL_ttf Libraries.\n\n\n\nDownload Link\n\n1. download link\n\n2. open Releases folder\n\n3. open .Exe  \n\n\nDownload Link\n\n\nDodgey Ball\n\n\nA 3D game based off dodge ball.\nThis is a multiplayer game that requires 2 people and 2 xbox controllers to play  \n\n\nGame was built in C++, with Direct X Tool Kit, FMOD Libraries\n\nand PhysX 3.2.4 Libraries\n\n\nNote: This was a group project consisted of 3 people working on it for 7 weeks + upskilling\n\n\n \n\n\nDownload Link\n\n1. download link\n\n2. open Releases folder\n\n3. open .Exe\n\n\nDownload Link", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#introduction", 
+            "text": "Hey~ my name is Sonic, Currently a game developer in training, A student at Auckland University of Technology located in New Zealand, Auckland City. \nMy dream is to be a Content Creator, Something for people to enjoy. I will be updating this log frequently, as I learn more new things.", 
+            "title": "Introduction"
+        }, 
+        {
+            "location": "/#video-reel", 
+            "text": "", 
+            "title": "Video Reel"
+        }, 
+        {
+            "location": "/#games", 
+            "text": "", 
+            "title": "Games"
+        }, 
+        {
+            "location": "/#spirit-animal", 
+            "text": "A maze game based off a custom game made in Warcraft 3: The Frozen Throne game.\nThe game is a puzzle timing game where you use your mask powers to overcome the obstacles.  Game was built in C++, with SDL Framework   Libraries, FMOD Libraries \nand SDL_ttf Libraries.  \nDownload Link \n1. download link \n2. open Releases folder \n3. open .Exe    Download Link", 
+            "title": "Spirit Animal"
+        }, 
+        {
+            "location": "/#dodgey-ball", 
+            "text": "A 3D game based off dodge ball.\nThis is a multiplayer game that requires 2 people and 2 xbox controllers to play    Game was built in C++, with Direct X Tool Kit, FMOD Libraries \nand PhysX 3.2.4 Libraries  Note: This was a group project consisted of 3 people working on it for 7 weeks + upskilling     Download Link \n1. download link \n2. open Releases folder \n3. open .Exe  Download Link", 
+            "title": "Dodgey Ball"
+        }, 
+        {
+            "location": "/project/", 
+            "text": "Projects\n\n\nSpirit Animal\n\n\nThis is the first game I have created, I have learnt many lessons from this project such as:  \n\n\n\n\nClean up memory leaks, while building.\n\n\nCollision is very hard\n\n\nBeing very thankful to sprite creators, free sound and free pictures\n\n\n\n\nDuring this project I was also currently learning C++ language coming from Java was very different, memory management, pointers, and addresses. They all were very new to me and intimidating at first, but as I got through these areas, things began to make sense.  \n\n\nThe most interesting part of this project was the creation of the map, it was all data driven based, for example, if this certain character, let's say \"W\" then at this certain place there will be a water tile.  \n\n\nAlso, the enemy Algorithms were challenging to make, Algorithm A was patrolling from right to left and back and so forth, Algorithm B is the enemy patrolling around in a square position which took me a while to create.\n\n\nDodgey Ball\n\n\nThe second game project I have created in a team that consists of 3 people, Had 7 weeks to build, including the upskill we had to go through to learn the libraries and framework.\n\n\nI have also learned lessons in this project such as:\n\n\n\n\nTeamwork can be quite difficult.\n\n\nYou always have to learn the algorithm/structure your team mate had implemented.\n\n\nSimple functions can take longer than you think.\n\n\nDo not leave underlying problems and bandaid them.\n\n\n\n\nInteresting parts of this project was learning PhysX Software Developer Kit, Searching online, most of the tutorials were deprecated and did not work. There were many differences during their version changes, such as from 3.2.4 compared to 3.3.4.\nFinding one tutorial that worked was hard, had to change many things to get this to work.\n\nAlthough I did find one tutorial which worked, this tutorial was using the openGL rendering API, while we were using Direct X, which meant we had to figure out how to convert the code into direct X.\n\nWhile knowing this also did not know how Matrix worked with 3D and Games which meant we had to upskill on this aswell. Finally everything came together and we ened up with this game.", 
+            "title": "Project"
+        }, 
+        {
+            "location": "/project/#projects", 
+            "text": "", 
+            "title": "Projects"
+        }, 
+        {
+            "location": "/project/#spirit-animal", 
+            "text": "This is the first game I have created, I have learnt many lessons from this project such as:     Clean up memory leaks, while building.  Collision is very hard  Being very thankful to sprite creators, free sound and free pictures   During this project I was also currently learning C++ language coming from Java was very different, memory management, pointers, and addresses. They all were very new to me and intimidating at first, but as I got through these areas, things began to make sense.    The most interesting part of this project was the creation of the map, it was all data driven based, for example, if this certain character, let's say \"W\" then at this certain place there will be a water tile.    Also, the enemy Algorithms were challenging to make, Algorithm A was patrolling from right to left and back and so forth, Algorithm B is the enemy patrolling around in a square position which took me a while to create.", 
+            "title": "Spirit Animal"
+        }, 
+        {
+            "location": "/project/#dodgey-ball", 
+            "text": "The second game project I have created in a team that consists of 3 people, Had 7 weeks to build, including the upskill we had to go through to learn the libraries and framework.  I have also learned lessons in this project such as:   Teamwork can be quite difficult.  You always have to learn the algorithm/structure your team mate had implemented.  Simple functions can take longer than you think.  Do not leave underlying problems and bandaid them.   Interesting parts of this project was learning PhysX Software Developer Kit, Searching online, most of the tutorials were deprecated and did not work. There were many differences during their version changes, such as from 3.2.4 compared to 3.3.4.\nFinding one tutorial that worked was hard, had to change many things to get this to work. \nAlthough I did find one tutorial which worked, this tutorial was using the openGL rendering API, while we were using Direct X, which meant we had to figure out how to convert the code into direct X. \nWhile knowing this also did not know how Matrix worked with 3D and Games which meant we had to upskill on this aswell. Finally everything came together and we ened up with this game.", 
+            "title": "Dodgey Ball"
+        }, 
+        {
+            "location": "/tools/", 
+            "text": "Tools\n\n\nThese are currently all the tools and knowledge I have aquired during the project I have created while in University.\n\n\nC++\n\n\nC++ (pronounced cee plus plus, /\u02c8si\u02d0 pl\u028cs pl\u028cs/) is a general-purpose programming language. It has imperative, object-oriented and generic programming features, while also providing facilities for low-level memory manipulation.\n\n\nSDL\n\n\nSimple DirectMedia Layer is a cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D. It is used by video playback software, emulators, and popular games including Valve's award winning catalog and many Humble Bundle games.\n\n\nDirect X\n\n\nMicrosoft DirectX is a collection of application programming interfaces (APIs) for handling tasks related to multimedia, especially game programming and video, on Microsoft platforms.\n\n\nPhysX\n\n\nPhysX is a proprietary realtime physics engine middleware SDK. PhysX was authored at NovodeX, an ETH Zurich spin-off. In 2004 NovodeX was acquired by Ageia, and in February 2008 Ageia was acquired by Nvidia.\n\n\nFMOD\n\n\nFMOD is a sound effects engine for video games and applications developed by Firelight Technologies, that play and mix sound files of diverse formats on many operating systems.", 
+            "title": "Tools"
+        }, 
+        {
+            "location": "/tools/#tools", 
+            "text": "These are currently all the tools and knowledge I have aquired during the project I have created while in University.", 
+            "title": "Tools"
+        }, 
+        {
+            "location": "/tools/#c", 
+            "text": "C++ (pronounced cee plus plus, /\u02c8si\u02d0 pl\u028cs pl\u028cs/) is a general-purpose programming language. It has imperative, object-oriented and generic programming features, while also providing facilities for low-level memory manipulation.", 
+            "title": "C++"
+        }, 
+        {
+            "location": "/tools/#sdl", 
+            "text": "Simple DirectMedia Layer is a cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D. It is used by video playback software, emulators, and popular games including Valve's award winning catalog and many Humble Bundle games.", 
+            "title": "SDL"
+        }, 
+        {
+            "location": "/tools/#direct-x", 
+            "text": "Microsoft DirectX is a collection of application programming interfaces (APIs) for handling tasks related to multimedia, especially game programming and video, on Microsoft platforms.", 
+            "title": "Direct X"
+        }, 
+        {
+            "location": "/tools/#physx", 
+            "text": "PhysX is a proprietary realtime physics engine middleware SDK. PhysX was authored at NovodeX, an ETH Zurich spin-off. In 2004 NovodeX was acquired by Ageia, and in February 2008 Ageia was acquired by Nvidia.", 
+            "title": "PhysX"
+        }, 
+        {
+            "location": "/tools/#fmod", 
+            "text": "FMOD is a sound effects engine for video games and applications developed by Firelight Technologies, that play and mix sound files of diverse formats on many operating systems.", 
+            "title": "FMOD"
+        }, 
+        {
+            "location": "/contact/", 
+            "text": "Contact\n\n\nPhone\n\n\n(+64) 254 7306  \n\n\nEmail\n\n\nnitiwatphachansiri@hotmail.com", 
+            "title": "Contact"
+        }, 
+        {
+            "location": "/contact/#contact", 
+            "text": "", 
+            "title": "Contact"
+        }, 
+        {
+            "location": "/contact/#phone", 
+            "text": "(+64) 254 7306", 
+            "title": "Phone"
+        }, 
+        {
+            "location": "/contact/#email", 
+            "text": "nitiwatphachansiri@hotmail.com", 
+            "title": "Email"
+        }
+    ]
+}
