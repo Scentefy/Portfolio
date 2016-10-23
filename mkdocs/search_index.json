@@ -87,7 +87,7 @@
         }, 
         {
             "location": "/contact/", 
-            "text": "Contact\n\n\nEmail\n\n\nnitiwatphachansiri@hotmail.com", 
+            "text": "Contact\n\n\nEmail\n\n\nnitiwatphachansiri@hotmail.com\n\n\nFacebook\n\n\nTwitter\n\n\nLinked In", 
             "title": "Contact"
         }, 
         {
@@ -99,6 +99,21 @@
             "location": "/contact/#email", 
             "text": "nitiwatphachansiri@hotmail.com", 
             "title": "Email"
+        }, 
+        {
+            "location": "/contact/#facebook", 
+            "text": "", 
+            "title": "Facebook"
+        }, 
+        {
+            "location": "/contact/#twitter", 
+            "text": "", 
+            "title": "Twitter"
+        }, 
+        {
+            "location": "/contact/#linked-in", 
+            "text": "", 
+            "title": "Linked In"
         }, 
         {
             "location": "/references/", 
