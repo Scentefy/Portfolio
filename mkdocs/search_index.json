@@ -104,6 +104,16 @@
             "location": "/contact/#email", 
             "text": "nitiwatphachansiri@hotmail.com", 
             "title": "Email"
+        }, 
+        {
+            "location": "/references/", 
+            "text": "References\n\n\nI would like to thank these people for helping me along my path~\n\n\nKumar, K. (2013). Learning Physics Modelling with PhysX.\n  \n\n\nLuna, F. D. (2012). Introduction to 3D game programming with Directx 11. Dulles, Virginia: Mercury Learning and Information.\n  \n\n\nMicrosoft. (n.d.). Home \u00b7 Microsoft/DirectXTK Wiki \u00b7 GitHub. Retrieved October 24, 2016, from https://github.com/Microsoft/DirectXTK/wiki\n  \n\n\nNvidia. (n.d.). PhysX SDK | NVIDIA Developer. Retrieved from https://developer.nvidia.com/physx-sdk", 
+            "title": "References"
+        }, 
+        {
+            "location": "/references/#references", 
+            "text": "I would like to thank these people for helping me along my path~  Kumar, K. (2013). Learning Physics Modelling with PhysX.     Luna, F. D. (2012). Introduction to 3D game programming with Directx 11. Dulles, Virginia: Mercury Learning and Information.     Microsoft. (n.d.). Home \u00b7 Microsoft/DirectXTK Wiki \u00b7 GitHub. Retrieved October 24, 2016, from https://github.com/Microsoft/DirectXTK/wiki     Nvidia. (n.d.). PhysX SDK | NVIDIA Developer. Retrieved from https://developer.nvidia.com/physx-sdk", 
+            "title": "References"
         }
     ]
 }
