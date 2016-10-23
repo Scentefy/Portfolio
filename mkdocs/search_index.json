@@ -87,18 +87,13 @@
         }, 
         {
             "location": "/contact/", 
-            "text": "Contact\n\n\nPhone\n\n\n(+64) 254 7306  \n\n\nEmail\n\n\nnitiwatphachansiri@hotmail.com", 
+            "text": "Contact\n\n\nEmail\n\n\nnitiwatphachansiri@hotmail.com", 
             "title": "Contact"
         }, 
         {
             "location": "/contact/#contact", 
             "text": "", 
             "title": "Contact"
-        }, 
-        {
-            "location": "/contact/#phone", 
-            "text": "(+64) 254 7306", 
-            "title": "Phone"
         }, 
         {
             "location": "/contact/#email", 
